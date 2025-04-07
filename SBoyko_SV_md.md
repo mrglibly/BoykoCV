@@ -5,9 +5,9 @@
 
 E\-mail: [sergey\.a\.boyko@yandex\.ru](mailto:sergey.a.boyko@yandex.ru) 
 
-LinkedIn: https://www.linkedin\.com/in/sergey\-boyko\-86378816/
+LinkedIn: <https://www.linkedin.com/in/sergey-boyko-86378816/>
 
-Github: https://github.com/mrglibly
+Github: <https://github.com/mrglibly>
 
 Проживает: Москва, м\. Речной вокзал
 
@@ -188,7 +188,7 @@ CSV, Excel\. Знакомство с Hadoop\.
 
 \- Опыт статистической обработки и умение интерпретировать результаты А/В тестов\.
 
-\- Понимаю устройство и принципы работы ERP, WMS систем, реляционных баз данных;
+\- Понимаю устройство и принципы работы ERP, WMS систем, реляционных баз данных (PostgreSQL);
 
 \- обработки данных, имею опыт построения дэшбордов на основе PowerBI;  
 
