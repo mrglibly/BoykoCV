@@ -103,7 +103,7 @@ __Менеджер по реализации проектов \(Project Manager\
 
 
 ________________________________________________________________________________________________________________
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Wincanton.svg/640px-Wincanton.svg.png" alt="drawing" style="width:150px;"/>
+<img src="https://github.com/mrglibly/BoykoCV/blob/main/Logos/Wincanton_Logo.png" alt="drawing" style="width:100px;"/>
 
 __Wincanton Trans European B\.V\. - Представитель в России__
 
